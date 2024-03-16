@@ -1,1 +1,3 @@
 SAAS - Software as a service
+PAAS - Platform as a service
+JSON - Javacript Object Notation
